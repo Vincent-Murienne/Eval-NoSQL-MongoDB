@@ -1,4 +1,3 @@
-// on va pouvoir écrire du code 
 import express from "express" ;
 import route from "./router.js";
 import { connect } from "mongoose";
